@@ -1,4 +1,6 @@
 # Network Design for ABC Pvt. Ltd
+This network is also implemented using cisco packet tracer. You can find the implementation here:
+https://github.com/dkay7223/Implementation-of-Network-Design-using-cisco-packet-tracer
 
 ## I. Introduction
 
