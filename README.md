@@ -22,7 +22,6 @@ ABC Pvt. Ltd, a prominent software development company in Islamabad, recently re
 - Conference Room: Requires a network-connected computer for presentations.
 - 14 Rooms (15x15 feet each) for employees.
 
-![Building Layout](building_layout.png)
 
 ## IV. Network Devices and Costs
 
